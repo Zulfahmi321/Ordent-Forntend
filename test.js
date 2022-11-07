@@ -1,3 +1,6 @@
+// Zul Fahmi Alfin
+// Test Frontend 
+
 const arr1 = [
     ['J', 'L', 'L', 'M'],
     ['u', 'i', 'i', 'a'],
